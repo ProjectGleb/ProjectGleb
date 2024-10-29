@@ -1,1 +1,0 @@
-# Meditations on AGI
