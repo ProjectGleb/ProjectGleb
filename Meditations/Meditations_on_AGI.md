@@ -24,6 +24,6 @@ In his analysis of Allen Ginsberg’s famous poem on Moloch, Scott Alexander bea
 
 We make up an emerging organism. One that is also suseptible to senses, and evolution. Societal mind virus becomes the organisms mental disorder. Nuclear bombs bruise its skin. And economic policies make for its evolutionary gradient.
 
-The proclivity to encompas emerging complexity as a being will not be limited to human societies. AGI will likely share such fait. Instead of being ascembled in a pandora's box, one might imagine the infrastructure that we design today to one day become conciouse, and in all likelyhood become conciouse faster than the AGI we can design in a lab.
+The emergance, however, will not be limited to human societies. AGI will likely share such fait. Instead of being ascembled in a pandora's box, one might imagine the infrastructure that we design today to one day become conciouse, and in all likelyhood become conciouse faster than the AGI we can design in a lab.
 
 To make it concrete think of you and I. In isolation, a human makes for an intelligent being. Together, the society makes for super intelligence.
