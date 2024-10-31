@@ -27,3 +27,5 @@ We make up an emerging organism. One that is also suseptible to senses, and evol
 The emergance, however, will not be limited to human societies. AGI will likely share such fait. Instead of being ascembled in a pandora's box, one might imagine the infrastructure that we design today to one day become conciouse, and in all likelyhood become conciouse faster than the AGI we can design in a lab.
 
 To make it concrete think of you and I. In isolation, a human makes for an intelligent being. Together, the society makes for super intelligence.
+
+Humans love predictions for they love gambling. Predictions not grounded in axioms almost always turn out to be false. To postulate about the uprise of AGI reasonably, 
